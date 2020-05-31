@@ -1,0 +1,194 @@
+,Country,Ruling Party,Link,Political Position,poli_numbers
+0,Afghanistan,Independent,/wiki/Independent_politician,['Dictatorship'],-1.0
+1,Åland,Liberals of Åland,/wiki/Liberals_of_%C3%85land,['Centre'],4.0
+2,Albania,Socialist Party of Albania,/wiki/Socialist_Party_of_Albania,"['Centre-left', 'left-wing']",2.5
+3,Algeria,National Liberation Front,/wiki/National_Liberation_Front_(Algeria),['Dictatorship'],-1.0
+4,Andorra,Democrats for Andorra,/wiki/Democrats_for_Andorra,['Centre-right'],5.0
+5,Angola,People's Movement for the Liberation of Angola,/wiki/MPLA,['Dictatorship'],-1.0
+8,Argentina,Frente de Todos,/wiki/Frente_de_Todos_(2019_coalition),"['Centre-left', 'left-wing']",2.5
+9,Armenia,My Step Alliance,/wiki/My_Step_Alliance,['Centre'],4.0
+10,Aruba,Aruban People's Party,/wiki/Aruban_People%27s_Party,['Center-right'],5.0
+11,Australia,Coalition,/wiki/Coalition_(Australia),['Centre-right'],5.0
+12,Austria,Austrian People's Party,/wiki/Austrian_People%27s_Party,"['Centre-right', 'right-wing']",5.5
+13,Azerbaijan,New Azerbaijan Party,/wiki/New_Azerbaijan_Party,['Dictatorship'],-1.0
+14,Bahamas,Free National Movement,/wiki/Free_National_Movement,['Centre-right'],5.0
+15,Bangladesh,Grand Alliance,/wiki/Grand_Alliance_(Bangladesh),['Big tent'],0.0
+16,Barbados,Barbados Labour Party,/wiki/Barbados_Labour_Party,['Centre-left'],3.0
+17,Belgium,Christian Democratic and Flemish,/wiki/Christen-Democratisch_en_Vlaams,"['Centre', 'centre-right']",4.5
+18,Belize,United Democratic Party,/wiki/United_Democratic_Party_(Belize),['Centre-right'],5.0
+19,Benin,Cauri Forces for an Emerging Benin,/wiki/Cauri_Forces_for_an_Emerging_Benin,['Centre'],4.0
+20,Bermuda,Progressive Labour Party,/wiki/Progressive_Labour_Party_(Bermuda),['Centre-left'],3.0
+21,Bhutan,Druk Nyamrup Tshogpa,/wiki/Druk_Nyamrup_Tshogpa,['Centre-left'],3.0
+22,Bolivia,Democrat Social Movement,/wiki/Democrat_Social_Movement,['Centre-right'],5.0
+23,Bonaire,Democrat Social Movement,/wiki/Democrat_Social_Movement,['Centre-right'],5.0
+24,Bosnia and Herzegovina,Democrat Social Movement,/wiki/Democrat_Social_Movement,['Centre-right'],5.0
+25,Botswana,Botswana Democratic Party,/wiki/Botswana_Democratic_Party,"['Centre', 'centre-right']",4.5
+26,Brazil,Social Liberal Party (PSL),/wiki/Social_Liberal_Party_(Brazil),"['Right-wing', 'far-right']",6.5
+28,Bulgaria,GERB,/wiki/Citizens_for_European_Development_of_Bulgaria,['Centre-right'],5.0
+29,Burkina Faso,People's Movement for Progress,/wiki/People%27s_Movement_for_Progress,['Centre-left'],3.0
+30,Burma,National League for Democracy,/wiki/National_League_for_Democracy,"['Centre', 'centre-left']",3.5
+31,Burundi,National Council for the Defense of Democracy –Forces for the Defense of Democracy,/wiki/National_Council_for_the_Defense_of_Democracy_%E2%80%93_Forces_for_the_Defense_of_Democracy,['Dictatorship'],-1.0
+32,Cambodia,Cambodian People's Party,/wiki/Cambodian_People%27s_Party,['Dictatorship'],-1.0
+33,Cameroon,Cameroon People's Democratic Movement,/wiki/Cameroon_People%27s_Democratic_Movement,['Dictatorship'],-1.0
+34,Canada,Liberal Party of Canada,/wiki/Liberal_Party_of_Canada,"['Centre', 'centre-left', 'Big tent']",3.5
+35,Cape Verde,Movement for Democracy,/wiki/Movement_for_Democracy_(Cape_Verde),"['Centre', 'Centre-right']",4.5
+36,Cayman Islands,People's Progressive Movement,/wiki/People%27s_Progressive_Movement_(Cayman_Islands),['Centre-left'],3.0
+37,Central African Republic,Touadéra,/wiki/Faustin-Archange_Touad%C3%A9ra,['Dictatorship'],-1.0
+38,Chad,Patriotic Salvation Movement,/wiki/Patriotic_Salvation_Movement,['Dictatorship'],-1.0
+39,Chile,Chile Vamos,/wiki/Chile_Vamos,"['Centre-right', 'right-wing']",5.5
+40,China,Communist Party of China,/wiki/Communist_Party_of_China,['Dictatorship'],-1.0
+41,Colombia,CD,/wiki/Democratic_Center_(Colombia),"['Centre-right', 'right-wing']",5.5
+43,Congo (Brazzaville),Congolese Party of Labour,/wiki/Congolese_Party_of_Labour,"['Left-wing', 'Far-left']",1.5
+44,Congo (Kinshasa),UDPS,/wiki/Union_for_Democracy_and_Social_Progress_(Democratic_Republic_of_the_Congo),['Centre-left'],3.0
+46,Costa Rica,Citizens' Action Party (PAC),/wiki/Citizens%27_Action_Party_(Costa_Rica),['Centre-left'],3.0
+47,Côte d'Ivoire,Rally of Houphouëtists for Democracy and Peace,/wiki/Rally_of_Houphou%C3%ABtists_for_Democracy_and_Peace,['Centre'],4.0
+48,Croatia,Croatian Democratic Union,/wiki/Croatian_Democratic_Union,['Centre-right'],5.0
+49,Cuba,Communist Party of Cuba,/wiki/Communist_Party_of_Cuba,['Dictatorship'],-1.0
+50,Curaçao,Communist Party of Cuba,/wiki/Communist_Party_of_Cuba,"['Left-wing', 'far-left']",1.5
+51,Cyprus,Democratic Rally,/wiki/Democratic_Rally,"['Centre', 'centre-right']",4.5
+52,Czech Republic,ANO 2011,/wiki/ANO_2011,"['Centre', 'centre-right']",4.5
+53,Denmark,A,/wiki/Social_Democrats_(Denmark),['Centre-left'],3.0
+54,Djibouti,Union for the Presidential Majority,/wiki/Union_for_the_Presidential_Majority,['Centre-left'],3.0
+55,Dominica,Dominica Labour Party,/wiki/Dominica_Labour_Party,['Centre-left'],3.0
+56,Dominican Republic,Dominican Liberation Party,/wiki/Dominican_Liberation_Party,['Centre-left'],3.0
+57,East Timor,FRETILIN,/wiki/Fretilin,['Centre-left'],3.0
+58,Ecuador,PAIS Alliance (AP),/wiki/PAIS_Alliance,"['Centre', 'centre-left', 'Left-wing']",3.0
+59,Egypt,New Wafd Party,/wiki/New_Wafd_Party,['Centre-right'],5.0
+60,El Salvador,Nuevas Ideas (NI),/wiki/Nuevas_Ideas,"['Centre', 'centre-right']",4.5
+61,Equatorial Guinea,Democratic Party of Equatorial Guinea,/wiki/Democratic_Party_of_Equatorial_Guinea,['Dictatorship'],-1.0
+62,Eritrea,People's Front for Democracy and Justice,/wiki/People%27s_Front_for_Democracy_and_Justice,['Dictatorship'],-1.0
+63,Estonia,Centre Party,/wiki/Estonian_Centre_Party,"['Centre', 'centre-left']",3.5
+64,Ethiopia,Prosperity Party,/wiki/Prosperity_Party,['Dictatorship'],-1.0
+65,European Union,European People's Party,/wiki/European_People%27s_Party_(European_Parliament_group),['Centre-right'],5.0
+66,Faroe Islands,Social Democratic Party,/wiki/Social_Democratic_Party_(Faroe_Islands),['Centre-left'],3.0
+67,Fiji,FijiFirst Party,/wiki/FijiFirst,"['Centre', 'centre-left']",3.5
+68,Finland,Social Democratic Party,/wiki/Social_Democratic_Party_of_Finland,['Centre-left'],3.0
+69,France,La République En Marche!,/wiki/La_R%C3%A9publique_En_Marche!,['Centre'],4.0
+71,French Polynesia,Tapura Huiraatira,/wiki/Tapura_Huiraatira,['Centre-right'],5.0
+72,Gabon,Gabonese Democratic Party,/wiki/Gabonese_Democratic_Party,['Dictatorship'],-1.0
+74,Georgia,Georgian Dream,/wiki/Georgian_Dream,"['Centre-left', 'centre-right']",4.0
+75,Germany,Christian Democratic Union,/wiki/Christian_Democratic_Union_(Germany),['Centre-right'],5.0
+76,Ghana,New Patriotic Party,/wiki/New_Patriotic_Party,['Centre-right'],5.0
+77,Gibraltar,GSLP–Liberal Alliance,/wiki/GSLP%E2%80%93Liberal_Alliance,['Centre-left'],3.0
+78,Greece,New Democracy,/wiki/New_Democracy_(Greece),"['Centre-right', 'right-wing']",5.5
+79,Greenland,Siumut,/wiki/Siumut,['Centre-left'],3.0
+80,Grenada,New National Party,/wiki/New_National_Party_(Grenada),['Centre-right'],5.0
+81,Guadeloupe,GUSR,"/wiki/United_Guadeloupe,_Socialism_and_Realities",['Left-wing'],2.0
+83,Guinea,Guinean People's Assembly,/wiki/Guinean_People%27s_Assembly,['Centre-left'],3.0
+84,Guinea-Bissau,Madem G15,/wiki/Madem_G15,['Left-wing'],2.0
+86,Haiti,Haitian Tèt Kale Party,/wiki/Haitian_T%C3%A8t_Kale_Party,['Centre-right'],5.0
+87,Honduras,National Party of Honduras,/wiki/National_Party_of_Honduras,['Right-wing'],6.0
+89,Hungary,Fidesz – Hungarian Civic Union,/wiki/Fidesz,"['Right-wing', 'far-right', 'Centre-right', 'right-wing']",6.0
+90,Iceland,Left-Green Movement,/wiki/Left-Green_Movement,"['Centre-left', 'left-wing']",2.5
+91,India,National Democratic Alliance,/wiki/National_Democratic_Alliance_(India),"['Centre-right', 'right-wing']",5.5
+92,Indonesia,PDI-P,/wiki/Indonesian_Democratic_Party_%E2%80%93_Struggle,['Centre-left'],3.0
+93,Iran,Moderation and Development Party,/wiki/Moderation_and_Development_Party,['Dictatorship'],-1.0
+94,Iraq,Alliance Towards Reforms,/wiki/Alliance_Towards_Reforms,['Dictatorship'],-1.0
+95,Ireland,Fine Gael,/wiki/Fine_Gael,"['Centre', 'centre-right']",4.5
+96,Isle of Man,Fine Gael,/wiki/Fine_Gael,"['Centre', 'centre-right']",4.5
+97,Israel,Likud,/wiki/Likud,"['Centre-right', 'right-wing']",5.5
+98,Italy,Conte II Cabinet,/wiki/Conte_II_Cabinet,['Centre-left'],3.0
+99,Jamaica,Jamaica Labour Party,/wiki/Jamaica_Labour_Party,['Centre-right'],5.0
+100,Japan,Liberal Democratic Party,/wiki/Liberal_Democratic_Party_(Japan),"['Centre-right', 'right-wing', 'far-right']",6.0
+101,Jersey,Liberal Democratic Party,/wiki/Liberal_Democratic_Party_(Japan),"['Centre-right', 'right-wing', 'far-right']",6.0
+102,Jordan,Liberal Democratic Party,/wiki/Liberal_Democratic_Party_(Japan),"['Centre-right', 'right-wing', 'far-right']",6.0
+103,Kazakhstan,Nur Otan,/wiki/Nur_Otan,['Dictatorship'],-1.0
+104,Kenya,Jubilee Party,/wiki/Jubilee_Alliance,['Centre-right'],5.0
+106,Kyrgyzstan,Social Democratic Party of Kyrgyzstan,/wiki/Social_Democratic_Party_of_Kyrgyzstan,['Centre-left'],3.0
+107,Kosovo,Vetëvendosje,/wiki/Vet%C3%ABvendosje,"['Center-left', 'left-wing']",2.5
+108,Laos,Lao People's Revolutionary Party,/wiki/Lao_People%27s_Revolutionary_Party,['Dictatorship'],-1.0
+109,Latvia,Unity,/wiki/Unity_(Latvian_political_party),['Centre-right'],5.0
+110,Lebanon,March 8 Alliance,/wiki/March_8_Alliance,['Big tent'],0.0
+113,Libya,National Forces Alliance,/wiki/National_Forces_Alliance,['Dictatorship'],-1.0
+114,Liechtenstein,Progressive Citizens' Party,/wiki/Progressive_Citizens%27_Party,"['Centre-right', 'right-wing']",5.5
+115,Lithuania,Lithuanian Farmers and Greens Union,/wiki/Lithuanian_Farmers_and_Greens_Union,"['Centre', 'centre-right']",4.5
+116,Luxembourg,Democratic Party,/wiki/Democratic_Party_(Luxembourg),"['Centre', 'centre-right']",4.5
+119,Malawi,Democratic Progressive Party,/wiki/Democratic_Progressive_Party,['Centre-left'],3.0
+120,Malaysia,Perikatan Nasional,/wiki/Perikatan_Nasional,"['Centre-right', 'Right-wing', 'far-right']",6.0
+121,Maldives,Maldivian Democratic Party,/wiki/Maldivian_Democratic_Party,['Centre-right'],5.0
+122,Mali,Rally for Mali,/wiki/Rally_for_Mali,['Centre-left'],3.0
+123,Malta,Labour Party,/wiki/Labour_Party_(Malta),"['Left-wing', 'Centre-left']",2.5
+125,Mauritania,Union for the Republic,/wiki/Union_for_the_Republic_(Mauritania),['Dictatorship'],-1.0
+126,Mauritius,MSM,/wiki/Militant_Socialist_Movement,['Centre-left'],3.0
+127,Mayotte,MSM,/wiki/Militant_Socialist_Movement,['Centre-left'],3.0
+128,Mexico,Juntos Haremos Historia,/wiki/Juntos_Haremos_Historia,"['Left-wing', 'Big tent']",2.0
+129,Moldova,Party of Action and Solidarity,/wiki/Party_of_Action_and_Solidarity,['Centre-right'],5.0
+130,Monaco,Primo ! Priorité Monaco,/wiki/Primo_!_Priorit%C3%A9_Monaco,"['Centre', 'centre-right']",4.5
+131,Mongolia,Democratic Party,/wiki/Democratic_Party_(Mongolia),['Centre-right'],5.0
+132,Montenegro,Democratic Party of Socialists of Montenegro,/wiki/Democratic_Party_of_Socialists_of_Montenegro,"['Centre', 'centre-left']",3.5
+135,Mozambique,FRELIMO,/wiki/FRELIMO,"['Centre-left', 'left-wing']",2.5
+136,Artsakh,Free Motherland,/wiki/Free_Motherland,['Centre-right'],5.0
+137,Namibia,South West Africa People's Organization,/wiki/South_West_Africa_People%27s_Organization,"['Centre-left', 'left-wing']",2.5
+138,Nauru,South West Africa People's Organization,/wiki/South_West_Africa_People%27s_Organization,"['Centre-left', 'left-wing']",2.5
+139,Nepal,Nepal Communist Party,/wiki/Nepal_Communist_Party,"['Left-wing', 'Centre-left', 'Far-left']",2.0
+140,Netherlands,People's Party for Freedom and Democracy,/wiki/People%27s_Party_for_Freedom_and_Democracy,['Centre-right'],5.0
+142,New Zealand,Labour Party,/wiki/New_Zealand_Labour_Party,['Centre-left'],3.0
+143,Nicaragua,Sandinista National Liberation Front (FSLN),/wiki/Sandinista_National_Liberation_Front,['Dictatorship'],-1.0
+144,Niger,PNDS,/wiki/Nigerien_Party_for_Democracy_and_Socialism,['Centre-left'],3.0
+145,Nigeria,All Progressive Congress,/wiki/All_Progressive_Congress,['Centre-left'],3.0
+146,North Korea,Workers' Party of Korea,/wiki/Workers%27_Party_of_Korea,['Dictatorship'],-1.0
+147,North Macedonia,Social Democratic Union of Macedonia,/wiki/Social_Democratic_Union_of_Macedonia,['Centre-left'],3.0
+148,Northern Cyprus,National Unity Party,/wiki/National_Unity_Party_(Northern_Cyprus),"['Centre-right', 'right-wing']",5.5
+149,Norway,Conservative Party,/wiki/Conservative_Party_(Norway),['Centre-right'],5.0
+150,Pakistan,Pakistan Tehreek-e-Insaf,/wiki/Pakistan_Tehreek-e-Insaf,"['Centre', 'centre-left']",3.5
+151,Palestine,Fatah,/wiki/Fatah,"['Centre-left', 'left-wing']",2.5
+152,Panama,Democratic Revolutionary Party,/wiki/Democratic_Revolutionary_Party,['Centre-left'],3.0
+154,Paraguay,Colorado Party,/wiki/Colorado_Party_(Paraguay),['Right-wing'],6.0
+155,Peru,Peruvians for Change,/wiki/Peruvians_for_Change,['Centre-right'],5.0
+156,Philippines,Partido Demokratiko Pilipino-Lakas ng Bayan,/wiki/PDP%E2%80%93Laban,['Centre-left'],3.0
+157,Poland,United Right,/wiki/United_Right_(Poland),['Right-wing'],6.0
+158,Portugal,PS,/wiki/Socialist_Party_(Portugal),['Centre-left'],3.0
+159,Puerto Rico,Popular Democratic Party (PPD),/wiki/Popular_Democratic_Party_(Puerto_Rico),['Center'],4.0
+160,Romania,PNL,/wiki/National_Liberal_Party_(Romania),"['Centre', 'centre-right']",4.5
+161,Russia,Independent,/wiki/Independent_politician,['Dictatorship'],-1.0
+162,Rwanda,Rwandan Patriotic Front,/wiki/Rwandan_Patriotic_Front,['Dictatorship'],-1.0
+163,Saint Helena,Rwandan Patriotic Front,/wiki/Rwandan_Patriotic_Front,['Big tent'],0.0
+165,Saint Lucia,United Workers Party,/wiki/United_Workers_Party_(Saint_Lucia),['Centre-right'],5.0
+166,Saint Pierre and Miquelon,Archipelago Tomorrow,/wiki/Archipelago_Tomorrow,['Right-wing'],6.0
+167,Saint Vincent and the Grenadines,Unity Labour Party,/wiki/Unity_Labour_Party,"['Centre-left', 'Left-wing']",2.5
+168,Samoa,Human Rights Protection Party,/wiki/Human_Rights_Protection_Party,['Centre-right'],5.0
+169,San Marino,Civic 10,/wiki/Civic_10,"['Centre-left', 'left-wing']",2.5
+170,São Tomé and Príncipe,Independent Democratic Action,/wiki/Independent_Democratic_Action,"['Centre', 'Centre-right']",4.5
+171,Senegal,Alliance for the Republic,/wiki/Alliance_for_the_Republic_(Senegal),['Centre'],4.0
+172,Serbia,Serbian Progressive Party,/wiki/Serbian_Progressive_Party,"['Centre-right', 'right-wing']",5.5
+173,Seychelles,United Seychelles Party,/wiki/United_Seychelles_Party,"['Centre-left', 'left-wing']",2.5
+174,Sierra Leone,Sierra Leone People's Party,/wiki/Sierra_Leone_People%27s_Party,['Centre'],4.0
+175,Singapore,People's Action Party,/wiki/People%27s_Action_Party,['Centre-right'],5.0
+177,Slovakia,Ordinary People,/wiki/Ordinary_People_(Slovakia),['Centre-right'],5.0
+178,Slovenia,Slovenian Democratic Party,/wiki/Slovenian_Democratic_Party,['Right-wing'],6.0
+180,Somalia,Tayo,/wiki/Tayo_(political_party),['Dictatorship'],-1.0
+181,South Africa,African National Congress,/wiki/African_National_Congress,['Centre-left'],3.0
+182,South Korea,Democratic Party,/wiki/Democratic_Party_of_Korea,"['Centre', 'centre-left']",3.5
+183,South Sudan,Sudan People's Liberation Army,/wiki/Sudan_People%27s_Liberation_Army,['Dictatorship'],-1.0
+184,Spain,Spanish Socialist Workers' Party,/wiki/Spanish_Socialist_Workers%27_Party,['Centre-left'],3.0
+185,Sri Lanka,Sri Lanka Podujana Peramuna,/wiki/Sri_Lanka_Podujana_Peramuna,"['Right-wing', 'Left-wing']",4.0
+186,Sudan,National Congress,/wiki/National_Congress_(Sudan),['Dictatorship'],-1.0
+187,Suriname,National Democratic Party,/wiki/National_Democratic_Party_(Suriname),['Left-wing'],2.0
+188,Sweden,Social Democratic Party,/wiki/Swedish_Social_Democratic_Party,['Centre-left'],3.0
+189,Switzerland,FDP.The Liberals,/wiki/FDP.The_Liberals,"['Centre-right', 'right-wing']",5.5
+190,Syria,National Progressive Front,/wiki/National_Progressive_Front_(Syria),['Dictatorship'],-1.0
+191,Taiwan,Democratic Progressive Party,/wiki/Democratic_Progressive_Party,['Centre-left'],3.0
+192,Tajikistan,People's Democratic Party of Tajikistan,/wiki/People%27s_Democratic_Party_of_Tajikistan,['Dictatorship'],-1.0
+193,Tanzania,CCM,/wiki/Chama_Cha_Mapinduzi,"['Centre-left', 'Left-wing', 'far-left']",2.0
+194,Thailand,Palang Pracharath Party,/wiki/Palang_Pracharath_Party,['Dictatorship'],-1.0
+195,Togo,Union for the Republic,/wiki/Union_for_the_Republic_(Togo),['Right-wing'],6.0
+196,Transnistria,Renewal,/wiki/Renewal_(Transnistria),['Centre'],4.0
+197,Trinidad and Tobago,People's National Movement,/wiki/People%27s_National_Movement,['Centre'],4.0
+198,Tunisia,Ettakatol,/wiki/Democratic_Forum_for_Labour_and_Liberties,['Centre-left'],3.0
+199,Turkey,Justice and Development Party,/wiki/Justice_and_Development_Party_(Turkey),['Dictatorship'],-1.0
+200,Turkmenistan,Democratic Party of Turkmenistan,/wiki/Democratic_Party_of_Turkmenistan,['Dictatorship'],-1.0
+201,Turks and Caicos,People's Democratic Movement,/wiki/People%27s_Democratic_Movement_(Turks_and_Caicos_Islands),['Centre'],4.0
+202,Uganda,National Resistance Movement,/wiki/National_Resistance_Movement,['Dictatorship'],-1.0
+203,Ukraine,Servant of the People,/wiki/Servant_of_the_People_(political_party),['Big tent'],0.0
+204,United Arab Emirates,Federal National Council,/wiki/Politics_of_the_United_Arab_Emirates,['Dictatorship'],-1.0
+205,United Kingdom,Conservative Party,/wiki/Conservative_Party_(UK),['Centre-right'],5.0
+206,Northern Ireland,DUP,/wiki/Democratic_Unionist_Party,"['Centre-right', 'right-wing']",5.5
+207,United States,Republican Party,/wiki/Republican_Party_(United_States),"['Centre-right', 'right-wing']",5.5
+208,Uruguay,National Party,/wiki/National_Party_(Uruguay),"['Centre-right', 'centrist']",4.5
+209,Uzbekistan,Uzbekistan Liberal Democratic Party,/wiki/Uzbekistan_Liberal_Democratic_Party,['Dictatorship'],-1.0
+211,Venezuela,United Socialist Party of Venezuela,/wiki/United_Socialist_Party_of_Venezuela,['Dictatorship'],-1.0
+212,Vietnam,Communist Party of Vietnam,/wiki/Communist_Party_of_Vietnam,['Dictatorship'],-1.0
+215,Western Sahara,Polisario Front,/wiki/Polisario_Front,['Dictatorship'],-1.0
+216,Yemen,General People's Congress,/wiki/General_People%27s_Congress_(Yemen),['Dictatorship'],-1.0
+217,Zambia,Patriotic Front,/wiki/Patriotic_Front_(Zambia),['Centre-left'],3.0
+218,Zimbabwe,Zimbabwe African National Union – Patriotic Front,/wiki/Zimbabwe_African_National_Union_%E2%80%93_Patriotic_Front,['Left-wing'],2.0
