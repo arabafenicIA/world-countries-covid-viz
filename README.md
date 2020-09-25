@@ -4,7 +4,7 @@ Interactive visualisation of worldwide cases of covid. Pandemic data is coming f
 Ruling political parties are extracted from a [wikipedia page](https://en.wikipedia.org/wiki/List_of_ruling_political_parties_by_country), the list of dictatorships in the world is extracted from [this page](https://worldpopulationreview.com/countries/dictatorship-countries/); both webpages have been scraped using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library.
 
 Data processing is done in a jupyter notebook.
-I use Python Bokeh library to generate the plot in html format, **the result can be seen [here](...)**.
+I use Python Bokeh library to generate the plot in html format, **the result can be seen [here](https://arabafenicia.github.io/world-countries-covid-viz/)**.
 
 ## Wishlist
 
